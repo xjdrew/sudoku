@@ -4,6 +4,10 @@ A modern web-based Sudoku game built with Next.js and Tailwind CSS. This project
 
 ![Sudoku Game Screenshot](docs/screenshot.png)
 
+## Prompt
+
+[docs/prompt.md](docs/prompt.md)
+
 ## Features
 
 - 🎮 Interactive Sudoku gameplay
