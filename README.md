@@ -2,7 +2,7 @@
 
 A modern web-based Sudoku game built with Next.js and Tailwind CSS. This project was entirely generated using Cursor.
 
-![Sudoku Game Screenshot]
+![Sudoku Game Screenshot](docs/screenshot.png)
 
 ## Features
 
